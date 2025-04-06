@@ -109,7 +109,7 @@ export default function Home() {
           <h2><FaProjectDiagram /> Key Projects</h2>
           <ul>
             <li><strong>LRPP – Long Range Portfolio Planning:</strong> Forecasted medical device inventory. (Tech: Node.js, React.js, Redshift, EC2)</li>
-            <li><strong>MCMP – M Community My Pharmacy:</strong> Mapped underserved populations. (Tech: React.js, NestJS, Leaflet, Azure SQL, Azure Web APP services)</li>
+            <li><strong>MCMP – My Community My Pharmacy:</strong> Mapped underserved populations. (Tech: React.js, NestJS, Leaflet, Azure SQL, Azure Web APP services)</li>
             <li><strong>CCDR – Critical Care Drug Reserve:</strong> Visualized drug stockpiles. (Tech: React.js, NestJS, Azure SQL, Azure Web APP services)</li>
             <li><strong>SCRM – Supply Chain Resiliency Mapping:</strong> Disaster impact monitoring. (Tech: React.js, D3.js, FastAPI, Azure SQL, Azure Web APP services)</li>
           </ul>
